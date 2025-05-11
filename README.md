@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center"> Hi, I'm Mel Tran! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=ALPHVMANE.ALPHVMANE) -->
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anke+Devanagari&pause=1000&color=BFDFD2&center=true&width=435&lines=Aspiring+Software+Developer;DS+%7C+AI+%7C+ML+Enthusiast;Always+Learning+New+Skills" alt="Typing SVG" /></a>
+</p>
+
 
 <!--
 **ALPHVMANE/ALPHVMANE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
