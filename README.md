@@ -11,7 +11,7 @@ My goal is to strengthen my development skills and explore new technologies.
   - *C++*
   - *C*
 - 🚀 I’m eager to join new projects.
-- Outside tech, I enjoy socializing with friends, 🖨 3D printing, 📖 reading non-fiction, and I also love watching anime.
+- Outside tech, I enjoy 🖨 3D printing, socializing with friends, 📖 reading non-fiction, and I also love watching anime.
 - 📫 Reach out to me at: <a href="mnctran4308@gmail.com">mnctran4308@gmail.com</a>
 <br>
  
