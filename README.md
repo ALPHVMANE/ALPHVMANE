@@ -8,8 +8,8 @@
 
 My goal is to strengthen my development skills and explore new technologies.
 - 🌱 I’m currently learning ...
-  - *IOS*
-  - *Android*
+  - *IOS (Swift)*
+  - *Android (Kotlin)*
 - 🚀 I’m eager to join new projects.
 - Outside tech, I enjoy 🖨 3D printing, ✏️ drawing, socializing with friends, and 📖 reading japanese graphic novels.
 - 📫 Reach out to me at: <a href="mnctran4308@gmail.com">mnctran4308@gmail.com</a>
