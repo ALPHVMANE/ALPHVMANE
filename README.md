@@ -71,12 +71,12 @@ My goal is to strengthen my development skills and explore new technologies.
     <a href="https://github.com/ALPHVMANE"> <img  width="100%" src="https://github-readme-stats.vercel.app/api?username=ALPHVMANE&title_color=f8c662&hide_border=true&text_color=aba7e2&bg_color=2c263f&icon_color=a1ba70&show_icons=true"/></a>
     <a href="https://github.com/ALPHVMANE"><img  width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ALPHVMANE&hide_border=true&background=2c263f&ring=f8c662&fire=f8c662&currStreakNum=aba7e2&sideNums=aba7e2&currStreakLabel=a1ba70&sideLabels=a1ba70&dates=aba7e2"/></a>
 </td> -->
-<td width="50%" align="center"">
+<!-- <td width="50%" align="center"">
    <a href="https://github.com/ALPHVMANE/github-readme-stats"><img width="70%" alt="Mel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALPHVMANE&langs_count=8&layout=compact&hide_border=true&bg_color=2c263f&title_color=a1ba70&text_color=aba7e2&icon_color=a1ba70"/>
 </a>
  <br>
  Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</td>
+</td> -->
 </tr>
 </table>
 </p>
